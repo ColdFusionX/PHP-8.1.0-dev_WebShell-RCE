@@ -1,8 +1,8 @@
 # PHP 8.1.0-dev WebShell RCE (Unauthenticated)
 
-> Exploit Code for PHP 8.1.0-dev WebShell Remote Code Execution (Unauthenticated)
+> Exploit Code for PHP 8.1.0-dev WebShell RCE (Unauthenticated)
 
-Expected outcome: Exploiting backdoor installed on PHP 8.1.0-dev thereby achieving a WebShell to execute commands.
+Expected outcome: Exploiting backdoor installed on PHP 8.1.0-dev server thereby obtaining WebShell to execute commands remotely.
 
 Intended only for educational and testing in corporate environments.
 
